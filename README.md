@@ -24,6 +24,8 @@ for Xt in data_steam:
     yt = cma.predict(Xt)
 ```
 
+We provide a [Notebook](https://github.com/WNJXYK/CMA/blob/main/CMA-Caltran.ipynb) to reproduce the default experiment in the official Matlab code.
+
 # Experiments
 
 Here is the experiment setting and hyper-parameters.
